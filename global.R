@@ -6,7 +6,6 @@ library(visdat)
 library(shinycssloaders)
 library(ggplot2)
 library(summarytools)
-library(DT)
 
 
 
